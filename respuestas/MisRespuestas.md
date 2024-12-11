@@ -20,7 +20,7 @@ for (it = numeros.begin(); it != numeros.end(); ++it) {
 
 > ¿Qué es un iterador en STL? Ejemplificar
 
-STL es la Standard Template Library de C++. Un iterador es un objeto usado para recoorer secuencialmente los elementos de tipos contenedores, tales como un `std::vector`, una `std::list` o un `std::map`. Sirven para recorrer estas estructuras y permiten la modificación del elemento contenido, modificando al espacio de memoria apuntado.
+STL es la Standard Template Library de C++. Un iterador es un objeto usado para recorrer secuencialmente los elementos de tipos contenedores, tales como un `std::vector`, una `std::list` o un `std::map`. Sirven para recorrer estas estructuras y permiten la modificación del elemento contenido, modificando al espacio de memoria apuntado.
 
 En STL, los iteradores son usados por varios algoritmos, como por ejemplo, `std::sort`, `std::find` o los métodos `begin()` y `end()` de los contenedores, que devuelven un iterador.
 
