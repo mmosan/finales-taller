@@ -4,7 +4,7 @@
 
 > ¿Qué son las librerías STL? ¿Qué ventajas ofrece? Dé un ejemplo de su uso.
 
-STL es el acrónimo de *Standard Template Library*, una librería para el desarrrollo de programas en C++. Esta librería la componen **algoritmos**, **iteradores**, **contenedores** y **funciones**. Todas están relacionadas entre sí y dedicadas a facilitar la implementación de diversas estructuras de datos frecuentemente utilizadas en la programación.
+STL es el acrónimo de *Standard Template Library*, una librería para el desarrrrrrrrollo de programas en C++. Esta librería la componen **algoritmos**, **iteradores**, **contenedores** y **funciones**. Todas están relacionadas entre sí y dedicadas a facilitar la implementación de diversas estructuras de datos frecuentemente utilizadas en la programación.
 
 ```cpp
 std::list<int> numeros = {0, -1, 5, 2, 9};
